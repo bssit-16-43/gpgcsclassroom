@@ -29,7 +29,7 @@ class Home extends Component {
 
 
 				<div>
-					<h1 style={{ fontSize: "45px" }}>GPGCS CLASS ROOM</h1>
+					<h1 style={{ fontSize: "45px" }}>GPGCS CLASS ROOM SAHIWAL</h1>
 					<p style={{ fontWeight: "200" }}>Video and audio conferencing tool developed by </p>
 					<p style={{ fontWeight: "200" }}>Muhammad Shoaib Mamtaz (BSSIT.16.40)</p>
 					<p style={{ fontWeight: "200" }}>Muhammad Hassan Shakeel (BSSIT.16.43)</p>
